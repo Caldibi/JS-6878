@@ -1,0 +1,28 @@
+.upLinks {
+  height: 50px;
+  background-color: rgb(204, 203, 203);
+}
+.upLinks .links {
+  display: flex;
+  border: 1px solid gray;
+  /*:hover{
+      background-color: gray;
+      color: white;
+  }*/
+}
+.upLinks .links .btn {
+  height: 50px;
+  width: 70px;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+  border-radius: 0;
+}
+
+.stringDiv {
+  border: 1px solid gray;
+}
+
+.noneDiv {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
